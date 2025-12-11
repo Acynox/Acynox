@@ -35,11 +35,11 @@ Currently deepening expertise in:
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" height="48"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="48"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="48"/>
 
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vercel,aws" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,aws" height="48"/>
 
-<img src="https://skillicons.dev/icons?i=figma,vscode,postman,bash" height="48"/>
+<img src="https://skillicons.dev/icons?i=figma,vscode,bash" height="48"/>
 
 </div>
 
