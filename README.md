@@ -30,15 +30,15 @@ Currently deepening expertise in:
 ## **Technical Stack**
 <div align="center">
 
-### **Frontend**
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" height="48"/>
-### **Backend**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" height="48"/>
-### **Databases**
+
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="48"/>
-### **DevOps & Cloud**
+
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vercel,aws" height="48"/>
-### **Tools**
+
 <img src="https://skillicons.dev/icons?i=figma,vscode,postman,bash" height="48"/>
 
 </div>
