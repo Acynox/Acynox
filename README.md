@@ -26,7 +26,7 @@ Currently deepening expertise in:
 </div>
 
 ---
-
+##Text Stacks
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" height="48"/>
