@@ -1,6 +1,6 @@
-<!-- HOLOGRAPHIC WAVE HEADER -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=48&duration=2800&pause=800&color=00D0FF&center=true&vCenter=true&width=900&lines=ACynox;Building+the+Future" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=48&duration=2800&pause=800&color=00D0FF&center=true&vCenter=true&width=900&lines=ACYNOX;Building+the+Future" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 
 ---
 
-## **About Me**
+
 <div align="center">
 
 My name is **Shaurya Solanki**, but online I go by **Acynox**.  
@@ -27,29 +27,22 @@ Currently deepening expertise in:
 
 ---
 
-## **Technical Stack**
 <div align="center">
 
-### **Frontend**
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" height="48"/>
 
-### **Backend**
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" height="48"/>
 
-### **Databases**
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="48"/>
 
-### **DevOps & Cloud**
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vercel,aws" height="48"/>
 
-### **Tools**
 <img src="https://skillicons.dev/icons?i=figma,vscode,postman,bash" height="48"/>
 
 </div>
 
 ---
 
-## **Connect With Me**
 <div align="center">
 
 <a href="mailto:ssshaurya66@gmail.com">
@@ -68,7 +61,7 @@ Currently deepening expertise in:
 
 ---
 
-## **Focus Areas**
+
 <div align="center">
 
 - Backend engineering & distributed systems  
