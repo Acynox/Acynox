@@ -1,6 +1,6 @@
-<!-- LIQUID CHROME HEADER -->
+<!-- HOLOGRAPHIC WAVE HEADER -->
 <div align="center">
-  <img src="https://img.shields.io/badge/ACynox-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJhZGlhbEdyYWRpZW50IGlkPSJnIiBjeDE9IjUwJSIgY3kxPSI1MCUiIHI9IjUwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2JiYiIvPjwvcmFkaWFsR3JhZGllbnQ+PHBhdGggZmlsbD0idXJsKCNnKSIgZD0iTTUwIDBMMCA1MDBoNTAwWiIvPjwvc3ZnPg==" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=48&duration=2800&pause=800&color=00D0FF&center=true&vCenter=true&width=900&lines=ACynox;Building+the+Future" />
 </div>
 
 <br/>
@@ -17,9 +17,8 @@
 <div align="center">
 
 My name is **Shaurya Solanki**, but online I go by **Acynox**.  
-I'm a full-stack engineer passionate about building **clean, scalable, production-grade software systems**.  
-My work focuses on **backend architecture**, performance optimization,  
-and designing systems that can scale without losing stability or clarity.
+I'm a full-stack engineer focused on building **clean, scalable, production-grade backend and frontend systems**.  
+I love solving real-world engineering problems with clarity, structure, and performance-driven thinking.
 
 Currently deepening expertise in:  
 **Backend engineering • API design • Distributed systems • High-performance UI engineering**
@@ -29,7 +28,6 @@ Currently deepening expertise in:
 ---
 
 ## **Technical Stack**
-
 <div align="center">
 
 ### **Frontend**
@@ -52,7 +50,6 @@ Currently deepening expertise in:
 ---
 
 ## **Connect With Me**
-
 <div align="center">
 
 <a href="mailto:ssshaurya66@gmail.com">
@@ -72,14 +69,13 @@ Currently deepening expertise in:
 ---
 
 ## **Focus Areas**
-
 <div align="center">
 
-- Backend engineering & distributed system fundamentals  
+- Backend engineering & distributed systems  
 - Designing scalable, stable, production-ready architectures  
 - High-performance frontend integration  
 - Efficient system optimization & clean engineering principles  
-- Product-oriented development with real-world application  
+- Product-focused engineering with real-world intent  
 
 </div>
 
